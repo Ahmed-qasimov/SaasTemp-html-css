@@ -1,0 +1,2 @@
+<h2>jquary and ajax is fun</h2>
+<p id="p1">sayfa guncellemeden bu dosyadan veri cek</p>

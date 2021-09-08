@@ -1,0 +1,33 @@
+.box{
+        width: 100px;
+        height: 100px;
+        background-color: darkred;
+        color: white;
+        padding: 10px;
+        position: absolute;
+}
+#divClick, #panel{
+        padding: 10px;
+        text-align: center;
+        background-color: darkkhaki;
+        border: 1px solid darkolivegreen;
+}
+#panel{
+     padding: 90px;
+     display: none;
+}
+.red{
+        color: red;
+}
+.important{
+       font-weight: bold;
+       font-size: xx-large;
+}
+#res{
+        width: 300px;
+        height: 300px;
+        padding: 20px;
+        margin: 20px;
+        background-color: cadetblue;
+        border: 3px solid black;
+}
